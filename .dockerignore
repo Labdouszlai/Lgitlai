@@ -1,0 +1,14 @@
+**/__pycache__
+**/.git
+**/.next
+**/node_modules
+**/venv
+**/.venv
+**/env
+**/dist
+**/build
+*.md
+.env
+.gitignore
+repos/
+vector_store/
